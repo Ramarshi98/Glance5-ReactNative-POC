@@ -1,0 +1,6 @@
+framework module Glance_iOS {
+  umbrella header "Glance_iOS.h"
+
+  export *
+  module * { export * }
+}
